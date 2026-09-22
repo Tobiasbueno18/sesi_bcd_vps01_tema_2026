@@ -38,7 +38,7 @@ O banco de dados foi desenvolvido utilizando conceitos de modelagem de dados, no
 # 🗂️ Estrutura do Projeto
 
 ```text
-Tema04_Manutencao_Equipamentos/
+sesi_bcd_vps01_tema_2026/
 │
 ├── README.md
 ├── Dicionario_de_Dados.md
@@ -304,21 +304,6 @@ SELECT * FROM peca_manutencao;
 ```
 
 **Importante:** o arquivo `ddl.sql` deve ser executado antes do arquivo `dml.sql`.
-
----
-
-# 📦 Entregáveis
-
-| Entregável | Status |
-|---|---|
-| MER Conceitual em PNG | Concluído |
-| DER Lógico em PNG | Concluído |
-| Normalização do banco de dados | Concluído |
-| Dicionário de Dados em Markdown | Concluído |
-| Arquivos CSV com dados de teste | Concluído |
-| Script DDL de criação do banco | Concluído |
-| Script DML de população do banco | Concluído |
-| README com documentação | Concluído |
 
 ---
 
