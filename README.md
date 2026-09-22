@@ -15,4 +15,5 @@
 
 Os CSVs correspondem aos registros do script DML.
 ## Diagramas
-![(print01)](der.png)
+![(DER)](https://github.com/Tobiasbueno18/sesi_bcd_vps01_tema_2026/blob/main/diagramas/der.png?raw=true)
+![(MER)](https://github.com/Tobiasbueno18/sesi_bcd_vps01_tema_2026/blob/main/diagramas/mer.png?raw=true)
