@@ -14,3 +14,5 @@
 3. Confira os dados com `SELECT * FROM nome_da_tabela;`.
 
 Os CSVs correspondem aos registros do script DML.
+## Diagramas
+![(print01)](der.png)
