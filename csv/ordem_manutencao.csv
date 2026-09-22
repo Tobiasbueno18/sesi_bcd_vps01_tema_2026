@@ -1,0 +1,4 @@
+﻿id_ordem,id_equipamento,tipo,descricao,data_abertura,data_inicio,data_fim,status,prioridade
+1,1,Preventiva,Lubrificação e inspeção geral,2026-09-01,2026-09-02,,Em andamento,Média
+2,2,Corretiva,Vibração excessiva no compressor,2026-09-03,2026-09-03,2026-09-04,Concluída,Alta
+3,3,Corretiva,Falha no motor da esteira,2026-09-05,2026-09-06,,Aberta,Alta

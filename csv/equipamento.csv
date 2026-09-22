@@ -1,0 +1,4 @@
+﻿id,nome,tipo,marca,modelo,numero_serie,data_aquisicao,status,setor,valor_aquisicao
+1,Torno CNC,Máquina,Romi,GL-200,TRN-2024-001,2024-02-15,Ativo,Usinagem,85000.00
+2,Compressor de Ar,Equipamento,Schulz,SRP air,CMP-2023-014,2023-08-10,Ativo,Manutenção,12500.00
+3,Esteira Transportadora,Máquina,Mercúrio,ET-500,EST-2022-008,2022-11-03,Em manutenção,Montagem,32000.00

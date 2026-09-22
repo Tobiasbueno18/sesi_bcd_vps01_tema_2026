@@ -1,0 +1,4 @@
+﻿id_manutencao,id_ordem,id_tecnico,descricao_servico,data_execucao,horas_trabalhadas,observacoes
+1,1,1,Inspeção e lubrificação dos componentes,2026-09-02,2.50,Sem anomalias críticas.
+2,2,2,Diagnóstico elétrico e troca de componente,2026-09-03,3.00,Equipamento liberado após teste.
+3,3,3,Análise do acionamento e testes iniciais,2026-09-06,1.50,Aguardando chegada de peça.

@@ -1,0 +1,4 @@
+﻿id_peca,nome,descricao,quantidade_estoque,estoque_minimo,preco
+1,Rolamento 6204,Rolamento blindado,25,5,38.90
+2,Correia A-42,Correia industrial,12,4,54.50
+3,Filtro de ar,Filtro para compressor,8,3,79.90
